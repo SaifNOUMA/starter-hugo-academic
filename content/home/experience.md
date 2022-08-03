@@ -22,28 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Assistant
+    company: University of South Florida
+    company_url: 'https://www.usf.edu/'
+    # company_logo: 
+    # location: Florida
+    date_start: '2021-12-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    # description: |2-
+    #     Responsibilities include:
+    #     * Analysing
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Teaching Assistant
+    company: University of South Florida
+    company_url: 'https://www.usf.edu/'
+    # company_logo: 
+    # location: Florida
+    date_start: '2021-08-01'
+    date_end: '2021-12-01'
+
+  - title: Software Engineer
+    company: Kopileft Services Inc.
+    company_url: 'http://www.kopileft.com/'
+    # company_logo: 
+    # location: Florida
+    date_start: '2021-01-01'
+    date_end: '2021-08-01'
+
+  - title: Research Intern
+    company: Laboratoy for Analysis and Architecture of Systems
+    company_url: 'https://www.laas.fr/public/en'
+    # company_logo: 
+    # location: Florida
+    date_start: '2020-02-01'
+    date_end: '2020-08-01'
+
+    # - title: Research Intern
+    #   company: Laboratoy for Analysis and Architecture of Systems
+    #   company_url: 'https://www.laas.fr/public/en'
+    #   # company_logo: 
+    #   # location: Florida
+    #   date_start: '2020-02-01'
+    #   date_end: '2020-07-01'
+
 
 design:
   columns: '2'
